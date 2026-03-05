@@ -1,0 +1,32 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+pydantic-settings
+
+# AI / ML
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-google-genai
+sentence-transformers
+torch
+
+# Vector DB
+chromadb
+
+# File parsers
+pypdf
+Pillow
+pytesseract
+openai-whisper
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Utilities
+httpx
+aiofiles
